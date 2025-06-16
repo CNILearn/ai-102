@@ -68,3 +68,95 @@ Exercise: [Develop an Azure AI agent with the Semantic Kernel SDK](https://go.mi
 ### [Orchestrate a multi-agent solution using Semantic Kernel](https://aka.ms/mslearn-ai-multi-agent)
 
 Exercise: [Develop a multi-agent solution](https://go.microsoft.com/fwlink/?linkid=2310729) 30 min
+
+## Develop natural language solutions in Azure​
+
+https://aka.ms/mslearn-language
+
+### [Analyze text](https://aka.ms/mslearn-analyze-text)
+
+Exercise: [Analyze text](https://go.microsoft.com/fwlink/?linkid=2320757)
+
+### Conversational understanding and question answering
+
+https://aka.ms/mslearn-conversational-understanding
+
+https://aka.ms/mslearn-question-answering
+
+Exercise: [Create a question answering solution](https://go.microsoft.com/fwlink/?linkid=2322213)
+
+### [Custom classification and named entity extraction](https://aka.ms/mslearn-custom-text)
+
+Exercise: [Custom text classification](https://go.microsoft.com/fwlink/?linkid=2322137)
+
+### [Speech recognition and synthesis](https://aka.ms/mslearn-speech-app)
+
+Exercise: [Recognize and synthesize speech](https://go.microsoft.com/fwlink/?linkid=2322214)
+
+### Translation
+
+https://aka.ms/mslearn-translate-text
+
+https://aka.ms/mslearn-translate-speech
+
+### [Audio enabled generative AI app](https://aka.ms/mslearn-generative-ai-audio)
+
+Exercise: [Develop an audio-enabled chat app](https://go.microsoft.com/fwlink/?linkid=2320123)
+
+## Develop Computer Vision solutions in Azure
+
+https://aka.ms/mslearn-computer-vision
+
+### [Analyze images](https://aka.ms/mslearn-analyze-images)
+
+Exercise: [Analyze images](https://go.microsoft.com/fwlink/?linkid=2319402)
+
+### [Read text in images](https://aka.ms/mslearn-read-text-images)
+
+Exercise: [Read text in images](https://go.microsoft.com/fwlink/?linkid=2320100)
+
+### [Detect, analyze, and recognize faces](https://aka.ms/mslearn-faces)
+
+Exercise: [Detect and analyze faces](https://go.microsoft.com/fwlink/?linkid=2320103)
+
+### Classify images and detect objects
+
+https://aka.ms/mslearn-custom-image-classification
+
+https://aka.ms/mslearn-custom-object-detection
+
+Exercise: [Classify images](https://go.microsoft.com/fwlink/?linkid=2320009)
+
+### [Develop a vision-enabled generative AI application](https://aka.ms/mslearn-gen-ai-vision)
+
+Exercise: [Develop a vision-enabled chat app](https://go.microsoft.com/fwlink/?linkid=2318613)
+
+### Generate images with AI
+
+https://aka.ms/mslearn-generate-images
+
+Exercise: [Generate images with AI](https://go.microsoft.com/fwlink/?linkid=2310727)
+
+## Develop AI information extraction solutions in Azure
+
+https://aka.ms/mslearn-ai-info-extraction
+
+### [Create a multimodal analysis solution with Azure AI Content Understanding](https://aka.ms/mslearn-multimodal-content)
+
+Exercise: [Extract information from multimodal content](https://go.microsoft.com/fwlink/?linkid=2320174)
+
+### [Create an Azure AI Content Understanding client application](https://aka.ms/mslearn-ai-content-understanding-api)
+
+Exercise: [Develop a Content Understanding client application](https://go.microsoft.com/fwlink/?linkid=2320464)
+
+### [Extract form data with Azure Document Intelligence prebuilt models](https://aka.ms/mslearn-doc-intelligence)
+
+Exercise: [Analyze forms with prebuilt Azure AI Document Intelligence models](https://go.microsoft.com/fwlink/?linkid=2321470)
+
+### [Extract form data withAzure Document Intelligence custom models](https://aka.ms/mslearn-custom-doc-intelligence)
+
+Exercise: [Analyze forms with custom Azure AI Document Intelligence models](https://go.microsoft.com/fwlink/?linkid=2322032)
+
+### [Create a knowledge mining solution with Azure AI Search](https://aka.ms/mslearn-ai-knowledge-mining)
+
+Exercise: [Create a knowledge mining solution with Azure AI Search](https://aka.ms/mslearn-ai-knowledge-mining)
