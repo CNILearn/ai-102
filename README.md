@@ -44,3 +44,27 @@ Exercise: [Apply content filters to prevent the output of harmful content](https
 ### [Evaluate generative AI performance in Azure AI Foundry portal](https://aka.ms/mslearn-ai-evaluation)
 
 Exercise: [Evaluate generative AI model performance](https://go.microsoft.com/fwlink/?linkid=2277720)
+
+## Develop AI Agents in Azure
+
+https://aka.ms/mslearn-develop-ai-agents
+
+### [Get started with AI agent development on Azure](https://aka.ms/mslearn-get-started-agents)
+
+Exercise: [Explore AI Agent development](https://go.microsoft.com/fwlink/?linkid=2303870)
+
+### [Develop an AI agent with Azure AI Foundry Agent Service](https://aka.ms/mslearn-develop-ai-agent)
+
+Exercise: [Develop an AI agent](https://go.microsoft.com/fwlink/?linkid=2305092)
+
+### [Integrate custom tools into your agent](https://aka.ms/mslearn-ai-agent-tools)
+
+Exercise: [Use a custom function in an AI agent](https://go.microsoft.com/fwlink/?linkid=2309805) 30 min
+
+### [Develop an AI agent with the Semantic Kernel SDK](https://aka.ms/mslearn-ai-semantic-kernel-agent)
+
+Exercise: [Develop an Azure AI agent with the Semantic Kernel SDK](https://go.microsoft.com/fwlink/?linkid=2313222) 30 minu
+
+### [Orchestrate a multi-agent solution using Semantic Kernel](https://aka.ms/mslearn-ai-multi-agent)
+
+Exercise: [Develop a multi-agent solution](https://go.microsoft.com/fwlink/?linkid=2310729) 30 min
