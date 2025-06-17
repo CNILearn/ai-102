@@ -192,6 +192,12 @@ Using z-Code++, GPT-3.5 Turbo (status Nov-2023)
 
 Azure AI Language Service integrates **prebuilt and customizable models** to enhance text understanding, conversation analysis, and document processing.
 
+#### Z-Code++: A Pre-trained Language Model Optimized for Abstractive Summarization
+
+https://www.microsoft.com/en-us/research/publication/z-code-a-pre-trained-language-model-optimized-for-abstractive-summarization/
+
+This paper presents Z-Code++, a new pre-trained language model optimized for abstractive text summarization. The model extends the state of the art encoder-decoder model using three techniques. First, we use a two-phase pre-training process to improve model's performance on low-resource summarization tasks. The model is first pre-trained using text corpora for language understanding, and then is continually pre-trained on summarization corpora for grounded text generation. Second, we replace self-attention layers in the encoder with disentangled attention layers, where each word is represented using two vectors that encode its content and position, respectively. Third, we use fusion-in-encoder, a simple yet effective method of encoding long sequences in a hierarchical manner. Z-Code++ creates new state of the art on 9 out of 13 text summarization tasks across 5 languages. Our model is parameter-efficient in that it outperforms the 600x larger PaLM-540B on XSum, and the finetuned 200x larger GPT3-175B on SAMSum. In zero-shot and few-shot settings, our model substantially outperforms the competing models.
+
 > Azure AI Foundry provides benchmarking tools to compare different LLMs, but direct comparisons with Azure AI Language Service are not explicitly listed in the model leaderboards. However, you can evaluate Azure AI Language Service using the same benchmarking framework by running tests on your own data.
 
 ### Azure AI Vision
