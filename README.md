@@ -203,3 +203,18 @@ This paper presents Z-Code++, a new pre-trained language model optimized for abs
 ### Azure AI Vision
 
 Florence is designed for general-purpose image understanding tasks like classification, captioning, object detection, and visual question answering. It powers several Azure AI Vision capabilities, especially those involving multimodal understanding (combining text and image inputs).
+
+[Project Florence](https://www.microsoft.com/en-us/research/project/projectflorence/)
+
+**Azure AI Vision** integrates various **Large Language Models (LLMs)** to enhance its capabilities across different vision-related tasks. Here’s a breakdown of the features and the LLMs used:
+
+| **Feature**                     | **LLM Used** |
+|----------------------------------|-------------|
+| **Optical Character Recognition (OCR)** | Deep-learning-based models for text extraction |
+| **Image Analysis**               | Vision-language models for object detection and scene understanding |
+| **Face Recognition**             | AI models optimized for facial detection and identity verification |
+| **Video Retrieval**              | Multimodal LLMs for natural language-based video search |
+| **Dense Captioning**             | Vision-language models for automatic image descriptions |
+| **Spatial Analysis**             | AI models for movement tracking and environment analysis |
+
+Azure AI Vision combines **computer vision** with **natural language processing** to improve accessibility, searchability, and automation in image and video analysis. Let me know if you need more details on any specific feature!
