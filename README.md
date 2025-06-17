@@ -77,6 +77,8 @@ https://aka.ms/mslearn-language
 
 Exercise: [Analyze text](https://go.microsoft.com/fwlink/?linkid=2320757)
 
+C# and Python
+
 ### Conversational understanding and question answering
 
 https://aka.ms/mslearn-conversational-understanding
@@ -85,9 +87,13 @@ https://aka.ms/mslearn-question-answering
 
 Exercise: [Create a question answering solution](https://go.microsoft.com/fwlink/?linkid=2322213)
 
+C# and Python
+
 ### [Custom classification and named entity extraction](https://aka.ms/mslearn-custom-text)
 
 Exercise: [Custom text classification](https://go.microsoft.com/fwlink/?linkid=2322137)
+
+C# and Python
 
 ### [Speech recognition and synthesis](https://aka.ms/mslearn-speech-app)
 
@@ -160,3 +166,34 @@ Exercise: [Analyze forms with custom Azure AI Document Intelligence models](http
 ### [Create a knowledge mining solution with Azure AI Search](https://aka.ms/mslearn-ai-knowledge-mining)
 
 Exercise: [Create a knowledge mining solution with Azure AI Search](https://aka.ms/mslearn-ai-knowledge-mining)
+
+## More information
+
+### Azure AI Language
+
+[Text-based summarization powered by fine-tuned large-language model](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-new-task-optimized-summarization-capabilities-powered-by-fine-tuned-/3983822)
+
+Using z-Code++, GPT-3.5 Turbo (status Nov-2023)
+
+**Azure AI Language Service** provides various **Natural Language Processing (NLP) features**, powered by **task-optimized large language models (LLMs)**. Here’s a breakdown:
+
+| **Feature**                      | **LLM Used** |
+|----------------------------------|-------------|
+| **Named Entity Recognition (NER)** | Transformer-based models |
+| **Personal and Health Data Detection (PII)** | Transformer-based models |
+| **Language Detection**           | Multilingual LLMs |
+| **Sentiment Analysis & Opinion Mining** | Sentiment-optimized LLMs |
+| **Summarization**                | Extractive & Abstractive LLMs |
+| **Conversation Summarization**   | Dialogue-optimized LLMs |
+| **Key Phrase Extraction**        | Context-aware LLMs |
+| **Intent Routing Agent**         | Customizable LLMs |
+| **Exact Question Answering Agent** | Pretrained LLMs |
+| **Customizable AI Models**       | Small & Large LLMs |
+
+Azure AI Language Service integrates **prebuilt and customizable models** to enhance text understanding, conversation analysis, and document processing.
+
+> Azure AI Foundry provides benchmarking tools to compare different LLMs, but direct comparisons with Azure AI Language Service are not explicitly listed in the model leaderboards. However, you can evaluate Azure AI Language Service using the same benchmarking framework by running tests on your own data.
+
+### Azure AI Vision
+
+Florence is designed for general-purpose image understanding tasks like classification, captioning, object detection, and visual question answering. It powers several Azure AI Vision capabilities, especially those involving multimodal understanding (combining text and image inputs).
