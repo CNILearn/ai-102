@@ -218,3 +218,23 @@ Florence is designed for general-purpose image understanding tasks like classifi
 | **Spatial Analysis**             | AI models for movement tracking and environment analysis |
 
 Azure AI Vision combines **computer vision** with **natural language processing** to improve accessibility, searchability, and automation in image and video analysis. Let me know if you need more details on any specific feature!
+
+## OCR offerings
+
+### 🧠 1. **Azure AI Vision OCR (Read API)**
+- **Purpose**: General-purpose OCR for images, signs, posters, and simple documents.
+- **Strengths**: Fast, multilingual, supports handwriting, optimized for “in-the-wild” images.
+- **Language Model**: Uses **traditional machine learning and deep learning models**. It’s layout-agnostic and designed for speed and broad coverage.
+- **Use Case**: Great for extracting text from photos, scanned pages, or mobile captures.
+
+### 📄 2. **Azure AI Document Intelligence (formerly Form Recognizer)**
+- **Purpose**: Structured document processing—forms, invoices, receipts, contracts.
+- **Strengths**: Layout-aware, key-value pair extraction, table parsing, prebuilt and custom models.
+- **Language Model**: Uses a **document-optimized version of the Read OCR engine**, combined with **layout analysis models** and **machine learning classifiers**. It does **not** use LLMs for extraction, but can be paired with them for post-processing.
+- **Use Case**: Ideal for automating data entry from business documents.
+
+### 🧾 3. **Azure AI Content Understanding**
+- **Purpose**: Deep semantic understanding of documents, images, audio, and video.
+- **Strengths**: Multimodal, context-aware, supports summarization, classification, and insight generation.
+- **Language Model**: Built on **large language models (LLMs)** like GPT-style transformers. It’s designed for **content understanding**, not just text extraction.
+- **Use Case**: Perfect for interpreting meaning, summarizing documents, or powering copilots.
